@@ -82,5 +82,4 @@ Incluez les dépendances suivantes dans votre fichier `pom.xml` pour bénéficie
     <optional>true</optional>
 </dependency>
 ```
-# Par : Nouhayla MOUAKKAL | II-BDCC2 
-## TP6 - Module : Big Data : Architectures de stockages
+# Par : Mohamed BenYghil | II-BDCC 
