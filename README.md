@@ -81,5 +81,9 @@ Incluez les dépendances suivantes dans votre fichier `pom.xml` pour bénéficie
     <scope>runtime</scope>
     <optional>true</optional>
 </dependency>
+
+<h1>Swagger Api</h1>
+![Swagger](https://github.com/Med124s/Cassandra-Spring-Boot-Product-App/assets/77217223/23204578-51f7-4477-b216-04c447e0ca25)
+
 ```
 # Par : Mohamed BenYghil | II-BDCC 
