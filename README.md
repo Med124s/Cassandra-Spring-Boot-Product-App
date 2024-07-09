@@ -1,3 +1,6 @@
+
+![Swagger](https://github.com/Med124s/Cassandra-Spring-Boot-Product-App/assets/77217223/93cae275-355d-4fcf-a6e0-85bbe135d74b)
+
 # Gestion de Base de Données Cassandra avec Spring Boot
 
 ## Aperçu
